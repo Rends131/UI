@@ -1,0 +1,21 @@
+---
+web:
+  url: "https://mail.sina.com.cm"
+
+---
+naviText:
+  huati: "话题"
+  tuijian: "推荐"
+  shipin: "视频"
+  tuwen: "图文"
+
+
+---
+login:
+  username: "15127409611"
+  passwd: "a123456"
+
+
+---
+forumDetail:
+ title: "帖子详情"
